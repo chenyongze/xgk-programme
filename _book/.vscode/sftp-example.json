@@ -1,0 +1,30 @@
+{
+    "name": "xgk-test",
+    "username": "root",
+    "ignore": [
+        ".vscode",
+        ".git",
+        ".DS_Store",
+        "bin",
+        "sound-code"
+    ],
+    "watcher": {
+        "files": "**/*",
+        "autoUpload": true,
+        "autoDelete": true
+    },
+    "profiles": {
+        "dev": {
+            "host": "xx.xx.xx.xx",
+            "remotePath": "/app/xgk-test-dev",
+            "privateKeyPath": "/Users/yongze/.ssh/id_rsa",
+            "uploadOnSave": true
+        },
+        "prod": {
+            "host": "xx.xx.xx.xx",
+            "privateKeyPath": "/Users/yongze/.ssh/id_rsa",
+            "remotePath": "/app/xgk-test/"
+        }
+    },
+    "defaultProfile": "prod"
+}

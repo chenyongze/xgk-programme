@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GitBook 使用教程]]></title>
+        <description><![CDATA[记录 GitBook 的配置和一些插件的使用]]></description>
+        <link>http://daily.dotalk.cn/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 18 Jan 2021 01:48:49 GMT</lastBuildDate>
+        <atom:link href="http://daily.dotalk.cn/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[yongze.chen]]></author>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[编程所学  分类整理]]></title>
+            <link>http://daily.dotalk.cn/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[RPC Remote Procedure Call 即 远程调用]]></title>
+            <link>http://daily.dotalk.cn/RPC/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/RPC/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[RPC Remote Procedure Call 即 远程调用]]></title>
+            <link>http://daily.dotalk.cn/RPC/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/RPC/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[thirft]]></title>
+            <description><![CDATA[Apache Thrift软件框架（用于可扩展的跨语言服务开发）将软件堆栈与代码生成引擎结合在一起，以构建可在C ++，Java，Python，PHP，Ruby，Erlang，Perl，Haskell，C＃，Cocoa，JavaScript，Node.js，Smalltalk，OCaml和Delphi等语言。]]></description>
+            <link>http://daily.dotalk.cn/RPC/thrift/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/RPC/thrift/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[thirft]]></title>
+            <description><![CDATA[Apache Thrift软件框架（用于可扩展的跨语言服务开发）将软件堆栈与代码生成引擎结合在一起，以构建可在C ++，Java，Python，PHP，Ruby，Erlang，Perl，Haskell，C＃，Cocoa，JavaScript，Node.js，Smalltalk，OCaml和Delphi等语言。]]></description>
+            <link>http://daily.dotalk.cn/RPC/thrift/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/RPC/thrift/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[java 总结]]></title>
+            <link>http://daily.dotalk.cn/java/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/java/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[java 总结]]></title>
+            <link>http://daily.dotalk.cn/java/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/java/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[日志管理]]></title>
+            <link>http://daily.dotalk.cn/log-management/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/log-management/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[日志管理]]></title>
+            <link>http://daily.dotalk.cn/log-management/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/log-management/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[brew 使用 总结]]></title>
+            <link>http://daily.dotalk.cn/mac/brew/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/mac/brew/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[brew 使用 总结]]></title>
+            <link>http://daily.dotalk.cn/mac/brew/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/mac/brew/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[nrm 方便 node 切换镜像 工具]]></title>
+            <link>http://daily.dotalk.cn/node/nrm/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/node/nrm/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[nrm 方便 node 切换镜像 工具]]></title>
+            <link>http://daily.dotalk.cn/node/nrm/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/node/nrm/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[动态切换 node 版本,npm对应版本]]></title>
+            <link>http://daily.dotalk.cn/node/nvm/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/node/nvm/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[动态切换 node 版本,npm对应版本]]></title>
+            <link>http://daily.dotalk.cn/node/nvm/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/node/nvm/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[memcache 非关系数据库]]></title>
+            <link>http://daily.dotalk.cn/non-relational-database/memcache/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/non-relational-database/memcache/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[memcache 非关系数据库]]></title>
+            <link>http://daily.dotalk.cn/non-relational-database/memcache/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/non-relational-database/memcache/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[mongodb 关系型 与 非关系型 数据库之间]]></title>
+            <link>http://daily.dotalk.cn/non-relational-database/mongodb/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/non-relational-database/mongodb/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[mongodb 关系型 与 非关系型 数据库之间]]></title>
+            <link>http://daily.dotalk.cn/non-relational-database/mongodb/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/non-relational-database/mongodb/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[redis  非关系型数据库]]></title>
+            <description><![CDATA[支持数据持久化，数据类型比较丰富]]></description>
+            <link>http://daily.dotalk.cn/non-relational-database/redis/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/non-relational-database/redis/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[redis  非关系型数据库]]></title>
+            <description><![CDATA[支持数据持久化，数据类型比较丰富]]></description>
+            <link>http://daily.dotalk.cn/non-relational-database/redis/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/non-relational-database/redis/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[编程总结]]></title>
+            <link>http://daily.dotalk.cn/php/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP 算法]]></title>
+            <link>http://daily.dotalk.cn/php/algorithm/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/algorithm/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP 算法]]></title>
+            <link>http://daily.dotalk.cn/php/algorithm/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/algorithm/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[composer]]></title>
+            <description><![CDATA[Composer 是 PHP 的一个依赖管理工具。我们可以在项目中声明所依赖的外部工具库，Composer 会帮你安装这些依赖的库文件，有了它，我们就可以很轻松的使用一个命令将其他人的优秀代码引用到我们的项目中来。]]></description>
+            <link>http://daily.dotalk.cn/php/composer/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/composer/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[composer]]></title>
+            <description><![CDATA[Composer 是 PHP 的一个依赖管理工具。我们可以在项目中声明所依赖的外部工具库，Composer 会帮你安装这些依赖的库文件，有了它，我们就可以很轻松的使用一个命令将其他人的优秀代码引用到我们的项目中来。]]></description>
+            <link>http://daily.dotalk.cn/php/composer/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/composer/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[consul 服务注册  服务发现]]></title>
+            <description><![CDATA[用consul提供的HTTP的API来实现PHP与consul之间的通信，实现服务的注册与发现]]></description>
+            <link>http://daily.dotalk.cn/php/consul/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/consul/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[consul 服务注册  服务发现]]></title>
+            <description><![CDATA[用consul提供的HTTP的API来实现PHP与consul之间的通信，实现服务的注册与发现]]></description>
+            <link>http://daily.dotalk.cn/php/consul/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/consul/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[数据结构]]></title>
+            <link>http://daily.dotalk.cn/php/data-structure/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/data-structure/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[数据结构]]></title>
+            <link>http://daily.dotalk.cn/php/data-structure/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/data-structure/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[数据类型]]></title>
+            <link>http://daily.dotalk.cn/php/data-type/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/data-type/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[数据类型]]></title>
+            <link>http://daily.dotalk.cn/php/data-type/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/data-type/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP 设计模式]]></title>
+            <link>http://daily.dotalk.cn/php/design-mode/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/design-mode/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP 设计模式]]></title>
+            <link>http://daily.dotalk.cn/php/design-mode/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/design-mode/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[框架总结]]></title>
+            <link>http://daily.dotalk.cn/php/frames/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/frames/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[框架总结]]></title>
+            <link>http://daily.dotalk.cn/php/frames/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/frames/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[jenkins 代码发布 构建]]></title>
+            <link>http://daily.dotalk.cn/php/jenkins/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/jenkins/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[jenkins 代码发布 构建]]></title>
+            <link>http://daily.dotalk.cn/php/jenkins/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/jenkins/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[kafka php 例子]]></title>
+            <link>http://daily.dotalk.cn/php/kafka-example/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/kafka-example/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[mongodb PHP 实践]]></title>
+            <link>http://daily.dotalk.cn/php/mongodb-example/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/mongodb-example/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[openssl]]></title>
+            <description><![CDATA[openssl可以实现：秘钥证书管理、对称加密和非对称加密 。]]></description>
+            <link>http://daily.dotalk.cn/php/openssl/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/openssl/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[openssl]]></title>
+            <description><![CDATA[openssl可以实现：秘钥证书管理、对称加密和非对称加密 。]]></description>
+            <link>http://daily.dotalk.cn/php/openssl/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/openssl/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[pecl  (the php extension community Library) php扩展]]></title>
+            <link>http://daily.dotalk.cn/php/pecl/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/pecl/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[日志管理]]></title>
+            <link>http://daily.dotalk.cn/php/pecl/SeasLog/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/pecl/SeasLog/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[日志管理]]></title>
+            <link>http://daily.dotalk.cn/php/pecl/SeasLog/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/pecl/SeasLog/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[geoip]]></title>
+            <description><![CDATA[GeoIP 扩展可以通过 IP 地址来确定地理位置]]></description>
+            <link>http://daily.dotalk.cn/php/pecl/geoip/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/pecl/geoip/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[geoip]]></title>
+            <description><![CDATA[GeoIP 扩展可以通过 IP 地址来确定地理位置]]></description>
+            <link>http://daily.dotalk.cn/php/pecl/geoip/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/pecl/geoip/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[pecl  (the php extension community Library) php扩展]]></title>
+            <link>http://daily.dotalk.cn/php/pecl/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/pecl/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[进程  线程 协程]]></title>
+            <link>http://daily.dotalk.cn/php/process-thread/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/process-thread/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[进程  线程 协程]]></title>
+            <link>http://daily.dotalk.cn/php/process-thread/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/process-thread/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[RabbitMq PHP 实践]]></title>
+            <description><![CDATA[AMQP 即Advanced Message Queuing Protocol，高级消息队列协议，是应用层协议的一个开放标准，为面向消息的中间件设计
+消息中间件主要用于组件之间的解耦，消息的发送者无需知道消息使用者的存在，反之亦然。]]></description>
+            <link>http://daily.dotalk.cn/php/rabbitmq-example/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/rabbitmq-example/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[RabbitMQ C AMQP client library]]></title>
+            <description><![CDATA[Build Status]]></description>
+            <link>http://daily.dotalk.cn/php/rabbitmq-example/rabbitmq-c-0.10.0/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/rabbitmq-example/rabbitmq-c-0.10.0/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Contributing to rabbitmq-c]]></title>
+            <description><![CDATA[Thanks for contributing to rabbitmq-c. I firmly believe that participation helps
+make open source software great. With that there are a few things that can be
+done to make our interaction a bit smoother.]]></description>
+            <link>http://daily.dotalk.cn/php/rabbitmq-example/rabbitmq-c-0.10.0/CONTRIBUTING.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/rabbitmq-example/rabbitmq-c-0.10.0/CONTRIBUTING.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Change Log]]></title>
+            <link>http://daily.dotalk.cn/php/rabbitmq-example/rabbitmq-c-0.10.0/ChangeLog.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/rabbitmq-example/rabbitmq-c-0.10.0/ChangeLog.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP session cookie 学习记录]]></title>
+            <description><![CDATA[查看过期时间]]></description>
+            <link>http://daily.dotalk.cn/php/session-cookie/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/session-cookie/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP session cookie 学习记录]]></title>
+            <description><![CDATA[查看过期时间]]></description>
+            <link>http://daily.dotalk.cn/php/session-cookie/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/session-cookie/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP 标准库]]></title>
+            <link>http://daily.dotalk.cn/php/spl/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/spl/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[PHP 标准库]]></title>
+            <link>http://daily.dotalk.cn/php/spl/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/spl/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Streams]]></title>
+            <link>http://daily.dotalk.cn/php/streams/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/streams/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Streams]]></title>
+            <link>http://daily.dotalk.cn/php/streams/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/streams/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[tidy]]></title>
+            <link>http://daily.dotalk.cn/php/tidy/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/tidy/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[tidy]]></title>
+            <link>http://daily.dotalk.cn/php/tidy/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/tidy/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[yaml]]></title>
+            <link>http://daily.dotalk.cn/php/yaml/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/yaml/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[yaml]]></title>
+            <link>http://daily.dotalk.cn/php/yaml/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/php/yaml/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[mysql 关系型数据库]]></title>
+            <link>http://daily.dotalk.cn/relational-database/mysql/README.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/relational-database/mysql/README.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[mysql 关系型数据库]]></title>
+            <link>http://daily.dotalk.cn/relational-database/mysql/readme.html</link>
+            <guid isPermaLink="true">http://daily.dotalk.cn/relational-database/mysql/readme.html</guid>
+            <dc:creator><![CDATA[yongze.chen]]></dc:creator>
+        </item>
+    </channel>
+</rss>
